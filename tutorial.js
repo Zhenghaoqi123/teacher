@@ -6,7 +6,7 @@ const TUTORIAL_STEPS = [
     id: 'welcome',
     target: null,
     title: '欢迎来到 老师模拟器！',
-    content: '在这个游戏中，你将扮演一名信息学竞赛教练，带领学生们从零开始，冲击中考！让我们先熟悉一下界面。',
+    content: '在这个游戏中，你将扮演一名学校中的老师，带领学生们从零开始，冲击中考！让我们先熟悉一下界面。',
     position: 'center',
     buttons: [
       { text: '开始教程', action: 'next', primary: true },
